@@ -1,0 +1,10 @@
++;calculation.CmdAddExt
+-;calculation.CmdSubtractExt
+*;calculation.CmdMultiplyExt
+/;calculation.CmdDivideExt
+PUSH;calculation.CmdPushExt
+POP;calculation.CmdPopExt
+PRINT;calculation.CmdPrintExt
+DEFINE;calculation.CmdDefineExt
+LIST;calculation.CmdListExt
+SQRT;calculation.CmdSQRTExt
